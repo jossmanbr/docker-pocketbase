@@ -20,4 +20,4 @@ sudo docker start pocketbase-0
 
 ## Admin Portal
 
-With PocketBase running in the Docker container, the admin portal can be accessed the same as if locally installed on the host, through http://localhost:8090/\_/
+With PocketBase running in the Docker container, the admin portal can be accessed the same as if locally installed on the host, through <http://localhost:8090/_/>
